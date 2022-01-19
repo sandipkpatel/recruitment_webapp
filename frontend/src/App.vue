@@ -8,9 +8,6 @@
   </v-app>
 </template>
 
-<style lang="scss">
-</style>
-
 <script>
 
 export default {
@@ -19,9 +16,6 @@ export default {
     return {
       
     }
-  },
-  created(){
-    
   }
 }
 </script>
